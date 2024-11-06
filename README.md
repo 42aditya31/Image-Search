@@ -1,6 +1,4 @@
-Here's a professional README file for your Image Search App:
 
----
 
 # Image Search App 🖼️
 
